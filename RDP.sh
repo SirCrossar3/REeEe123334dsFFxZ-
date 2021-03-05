@@ -1,7 +1,9 @@
 #! /bin/bash
 printf "Colab Hax 2.2 Created by SirCrosar" >&2
 {
+then
 printf "Status: Installing" >&2
+{
 sudo useradd -m HARSHAL
 sudo adduser HARSHAL sudo
 echo 'HARSHAL:0000' | sudo chpasswd
