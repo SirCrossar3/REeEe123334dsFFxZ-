@@ -1,5 +1,6 @@
 #! /bin/bash
 printf "Colab Hax 2.2 Created by SirCrosar" >&2
+{
 printf "Installing RDP this may take some time" >&2
 {
 sudo useradd -m HARSHAL
