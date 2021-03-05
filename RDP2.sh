@@ -1,5 +1,5 @@
 #! /bin/bash
-printf "Colab Hax 2.2 Created by SirCrosar" >&2
+printf "Colab Hax 2.2 Created by SirCrosar Note: It is installing" >&2
 {
 sudo useradd -m HARSHAL
 sudo adduser HARSHAL sudo
