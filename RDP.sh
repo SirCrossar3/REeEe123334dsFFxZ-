@@ -42,4 +42,4 @@ then
     printf "\n\nRoot password is 0000 " >&2
 else
     printf "\n\nError Occured " >&2
-fi
+
