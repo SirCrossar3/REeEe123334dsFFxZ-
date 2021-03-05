@@ -43,3 +43,4 @@ then
 else
     printf "\n\nError Occured " >&2
 
+exit
