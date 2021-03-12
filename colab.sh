@@ -1,4 +1,4 @@
-#! /bin/bash
+
 
 # Make Instance Ready for Remote Desktop or RDP
 
